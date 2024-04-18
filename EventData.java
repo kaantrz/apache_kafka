@@ -18,6 +18,7 @@ public class Data implements Serializable {
         return message;
     }
 
+    
     @Override
     public String toString() {
         return "Data{" +
